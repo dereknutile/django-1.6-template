@@ -1,5 +1,9 @@
-# Local development dependencies go here
+# local development dependencies go here
+
+# feed from base.txt
 -r base.txt
+
+# local tools
 coverage==3.6
 django-discover-runner==0.4
 django-debug-toolbar==0.11.0
