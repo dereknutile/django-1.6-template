@@ -59,7 +59,7 @@ Installing dependencies is done using PIP and is relative to your environment.  
 
 To install requirements on your development system, use PIP to reference the development configuration file:
 
-    (django16)$ pip install -r requirements/development.txt
+    (django16)$ pip install -r requirements/localhost.txt
 
 ### [Run Server](id:anchor-run-server)
 
